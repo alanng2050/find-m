@@ -1,3 +1,4 @@
+## About this package:
 #### Given a cirlce with:
 
 - R is radius of the circle
@@ -9,3 +10,7 @@
 - and you want to find y coordinates to have a list of points (x, y) on the circle
 
 => So this function will help you to find the `y coordinates` or vice versa `x coordinates`
+
+
+## How to install:
+`npm install @alan-ng/find-m`
