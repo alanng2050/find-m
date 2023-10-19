@@ -1,6 +1,6 @@
 {
   "name": "@alan-ng/find-m",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Simple template that includes all necessary configuratio eslint, prettier, typescript, and esbuild",
   "main": "out/index.js",
   "types": "types/index.d.ts",
@@ -8,8 +8,7 @@
     "test": "jest",
     "test:watch": "jest --watch",
     "dev": "node esbuild.dev.mjs",
-    "build": "node esbuild.build.mjs",
-    "deploy": "npm run build && npm publish --access public"
+    "build": "node esbuild.build.mjs"
   },
   "keywords": [],
   "author": "Alan",

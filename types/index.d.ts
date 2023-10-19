@@ -9,6 +9,6 @@ interface Result {
   val2: number
 }
 
-declare module 'find-m' {
+declare module '@alan-ng/find-m' {
   export function findM(param: Param): Result | undefined
 }
